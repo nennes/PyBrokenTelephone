@@ -1,0 +1,90 @@
+af:We are what we repeatedly do; Excellence, then, is not an act, but a habit.
+ar:We are what we do repeatedly. Excellence, then, is not an act, but a habit.
+az:We have to do repeatedly. Excellence, then, is an act, but a habit.
+be:We have to do again. Excellence, then, is an act, but a habit.
+bg:We must do it again. Excellence, then, is an act, but a habit.
+bn:We will do it again. Excellence, then, is an act, but a habit.
+bs:We will do it again. Excellence, therefore, an act, but a habit.
+ca:Let's do it again. Excellence, therefore, an act but a habit.
+ceb:We do it again. Excellence, therefore, an act but a habit.
+cs:We're doing it again. Excellence, therefore, an act, but a habit.
+cy:We will do it again. Excellence, therefore, an act, but a habit.
+da:We will do it again. Excellence, therefore, an act, but a habit.
+de:We will do it again. Excellence, therefore, an act, but a habit.
+el:We will do it again. Excellence, therefore, an act, but a habit.
+eo:We will do it again. Excellence, then, an act, but a habit.
+es:Let's do it again. Excellence, then, an act, but a habit.
+et:Let's do it again. Excellence, then, an act, but a habit.
+eu:Let's do it again. Excellence, then, is an act, but a habit.
+fa:Let's do it again. Excellence, then, is an act, but a habit.
+fi:Let's do it again. Excellence, then, is an act, but a habit.
+fr:Let's do it again. Excellence, then, is an act, but a habit.
+ga:Let's do it again. Excellence, then, is an act, but a habit.
+gl:Let's do it again. Excellence, then, is an act, but a habit.
+gu:Let's do it again. Excellence, then, is an act, but a habit.
+ha:Let's do it again. Well, then, it is an act, but a habit.
+hi:Let's do it again. Okay, so this is an act, but a habit.
+hmn:Let's do it again. Okay, so this is an act, but a habit.
+hr:Let's do it again. Okay, so this is an act, but a habit.
+ht:Let's do it again. Okay, so this is an act, but a habit.
+hu:Let's do it again. Okay, so this is an act, but a habit.
+hy:Let's do it again. Okay, so this is not an act, but a habit.
+id:Let's do it again. Okay, so this is not an act, but a habit.
+ig:Let's do it again. Okay, so this is not an act, but a habit.
+is:Let's do it again. Okay, so this is not an act, but a habit.
+it:Let's do it again. Ok, so this is not an act, but a habit.
+iw:Let's do it again. Ok, so this is not an act, but a habit.
+ja:Let's again doing it. The [OK], this act is not a habit.
+jw:Come back to doing it. The [OK], the act was not a habit.
+ka:We do come back. The [OK], the act was not in the habit.
+kk:We will come back. [OK], the act was not in the habit.
+km:We will be back. [OK] This is not in the habit.
+kn:We will be back. [OK] This is not practice.
+ko:We will be back. OK, not this way.
+la:We will be back. OK, not this way.
+lo:We will be back. OK, not this way.
+lt:We will be back. Good, but not in this way.
+lv:We will be back. Okay, but not this way.
+mg:We will be back. Well, not so.
+mi:And for us. Well, not so.
+mk:And for us. Well, not so.
+ml:We are. Well, not so.
+mn:We are. Well, yes.
+mr:We're going. Yes, that's fine.
+ms:We will. Yes, that's fine.
+mt:We will. Yes, that's fine.
+my:We will. Yes, fine.
+ne:We will have. Actually, yes.
+nl:We'll have. Actually, yes.
+no:We want. Actually, yes.
+ny:We want. Actually, yes.
+pa:We want. In fact, Yes.
+pl:We want. In fact, so.
+pt:We want. Indeed mode.
+ro:We want. Indeed, the module.
+ru:We want. Indeed, a module.
+si:We need. In fact, the module.
+sk:We need. Indeed, a module.
+sl:We need. Indeed module.
+so:I need. Indeed module.
+sq:We need. Indeed module.
+sr:We have to. Truly module.
+st:We should. Indeed module.
+su:We need. Indeed modules.
+sv:We need. Really modules.
+sw:We need to. True modules.
+ta:We need to do. Indeed modules.
+te:We need to do. Indeed modules.
+tg:We need to work. Of course modules.
+th:Of course we need to work modules
+tl:Of course we need to work modules
+tr:Of course, the modules must operate
+uk:Of course, the modules should work
+ur:Of course, the modules should work
+uz:Of course, the module should work
+vi:Of course, the modules should work
+yi:Obviously, the modules should work
+yo:Obviously, the modules should work
+zh:Obviously, the module should work
+zh-TW:Obviously, the module should work
+zu:Obviously, the module should work
