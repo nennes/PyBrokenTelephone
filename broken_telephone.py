@@ -35,13 +35,11 @@ else:
     print('Part 1 already performed. Skipping...')
 
 # PART 2: For every translation, translate back to English! See how the meaning get's altered after every translation
-
 payload['target'] = 'en'
-
 with codecs.open("output_pass_1.txt", "r", "utf-8") as out_file_1:
     content = out_file_1.readlines()  # Convert all the translations to a list
 
-out_file_2 = codecs.open("output_pass_2.txt", "w", "utf-8")
+out_file_2 = codecs.open("back_to_english.txt", "w", "utf-8")
 for line in content:
     line=line.replace('\n', '')  # remove newlines
     payload['source'], payload['q'] = line.split(':')
@@ -50,5 +48,5 @@ for line in content:
     translation_response = requests.get(url=url_translate, params=payload).json()
     translated_text = translation_response['data']['translations'][0]['translatedText']
     out_file_2.write("%s:%s\n" % (payload['source'], translated_text)) # write the results to the file
-    print(translated_text)
+    print(payload['q'], '\t\t\t=>\t',translated_text)
 out_file_2.close()
