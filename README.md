@@ -2,8 +2,14 @@
 Let's play broken telephone with Google Translate!! :)
 
 Imagine a queue of people, all speaking different languages.
-Each can speak only to the person in front of him and listen only the person behind him. And of course, they all use Google Translate!!
-Also, the first person is Aristotle! :)
+Each can speak only to the person in front of them and listen only to the person behind them. As a result, while the message travels through the queue, it slowly loses it's original meaning.
+
+
+To replicate this, we'll use Google Translate! Each "person" will be a new language translation by Google Translate, taking the previous translation as input.
+
+
+And to make things interesting, the first person will be Aristotle! :)
+
 
 Enjoy the results:
 
